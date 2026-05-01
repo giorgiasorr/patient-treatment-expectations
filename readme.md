@@ -11,7 +11,7 @@ Online health platforms such as Reddit provide a space where patients share expe
 This project focuses on modelling and automatically detecting patient expectations of treatment outcomes from text, using a combination of synthetic and real-world data.
 
 ---
-## ⚙️ Setup
+## Setup
 
 Install dependencies:
 
