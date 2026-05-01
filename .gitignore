@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data (optional depending on what you want public)
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
