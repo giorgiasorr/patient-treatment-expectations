@@ -6,7 +6,7 @@ Detecting patient expectations of treatment outcomes in online health discussion
 
 ## Overview
 
-Online health platforms such as Reddit provide a space where patients share experiences, concerns, and expectations about treatments. These expectations—beliefs about what a treatment will or will not do—play an important role in treatment engagement and outcomes, but remain underexplored from an NLP perspective.
+Online health platforms such as Reddit provide a space where patients share experiences, concerns, and expectations about treatments. These expectations, which are beliefs about what a treatment will or will not do, play an important role in treatment engagement and outcomes, but remain underexplored from an NLP perspective.
 
 This project focuses on modelling and automatically detecting patient expectations of treatment outcomes from text, using a combination of synthetic and real-world data.
 
@@ -81,7 +81,7 @@ Each expectation is labeled along the following dimensions:
 - **Synthetic dataset**: generated and automatically labeled using LLMs  
 - **Real-world dataset**: manually annotated Reddit posts  
 
-> Note: Data may not be publicly released due to platform and privacy constraints.
+→ Note: Data may not be publicly released due to platform and privacy constraints.
 
 ---
 
@@ -108,5 +108,9 @@ By combining structured annotation and synthetic data generation, the project ex
 
 ## Author
 
-Giorgia Sorrentino  
+Giorgia Sorrentino    
 MSc Computational Linguistics
+
+Links:
+- LinkedIn: https://www.linkedin.com/in/giorgia-sorrentino
+- GitHub: https://github.com/giorgiasorr
